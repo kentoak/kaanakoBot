@@ -1,5 +1,5 @@
 # kaanakoBot
-[渡部香生子ちゃんのHP](https://kanako-watanabe.com/)からInformation欄の最新情報をslackで通知してくれる
+[渡部香生子ちゃんのHP](https://kanako-watanabe.com/)からNews欄の最新情報をslackで通知してくれる
 
 
 # Usage
